@@ -1,0 +1,2 @@
+The script folder will contain all the scripts ever created and used during the thesis. These scripts will be distributed as per their usage.
+Some scripts will be only to test something, while some for preprocessing data and some will be the training or EDA scripts.
