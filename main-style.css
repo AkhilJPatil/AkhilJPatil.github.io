@@ -63,6 +63,26 @@ body {
   margin-top: 20px;
 }
 
+/*make article intro hyperlink on index non-blue*/
+.a-article {
+  color: inherit;
+  text-decoration: none;
+}
+
+.intro-article {
+  {
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  padding: 20px;
+  font-size: 1.3rem;
+  margin: 0;
+  background: white;
+  resize: horizontal;
+}
+
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {
@@ -70,4 +90,3 @@ body {
     padding: 0;
   }
 }
-C:\Users\Lenovo\Documents\GitHub\AkhilJPatil.github.io\main-style.css
