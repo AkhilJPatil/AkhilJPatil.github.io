@@ -41,6 +41,12 @@ body {
   border-radius: 100%;
 }
 
+/* Icon image */
+.icons {
+  height:50px;
+  margin: 0 10px 0 0;
+}
+
 /* Add a card effect for articles */
 .card {
   background-color: white;
