@@ -30,10 +30,18 @@ body {
 .fakeimg {
   background-color: #aaa;
   width: 100%;
-  padding: 20px;
+  padding: 5px;
 }
 
-/* Fake image */
+/* header image */
+.headimg {
+  background-color: #aaa;
+  height:200px;
+  width: 100%;
+  padding: 2px;
+}
+
+/* profile image */
 .profileimg {
   background-color: #aaa;
   filter: grayscale(100%);
@@ -63,9 +71,9 @@ body {
 
 /* Footer */
 .footer {
-  padding: 20px;
   text-align: center;
-  background: #ddd;
+  color: white;
+  background: #403E3E;
   margin-top: 20px;
 }
 
